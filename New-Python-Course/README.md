@@ -6,7 +6,7 @@ A comprehensive, hands-on Python programming course covering 18 topics — from 
 
 ## How to Access the Course
 
-### Step 1 — Learn on Publica Academy
+### Step 1: Learn on Publica Academy
 
 The primary learning experience takes place on the **Publica Academy** platform. Here you will find everything you need to complete the course:
 
@@ -19,7 +19,7 @@ The primary learning experience takes place on the **Publica Academy** platform.
 
 ---
 
-### Step 2 — Deepen Your Understanding Here (This Repository)
+### Step 2: Deepen Your Understanding Here (This Repository)
 
 This GitHub repository is your companion resource for **refined understanding and hands-on coding practice**. For each of the 18 topics you will find:
 
@@ -38,8 +38,8 @@ This GitHub repository is your companion resource for **refined understanding an
 | 02 | [Python Syntax Basics](Topic_02_Python_Syntax_Basics) |
 | 03 | [Variables & Data Types](Topic_03_Variables_Data_Types) |
 | 04 | [Operators & Expressions](Topic_04_Operators_Expressions) |
-| 05 | [Control Flow — Conditionals](Topic_05_Control_Flow_Conditionals) |
-| 06 | [Control Flow — Loops](Topic_06_Control_Flow_Loops) |
+| 05 | [Control Flow: Conditionals](Topic_05_Control_Flow_Conditionals) |
+| 06 | [Control Flow: Loops](Topic_06_Control_Flow_Loops) |
 | 07 | [Strings](Topic_07_Strings) |
 | 08 | [Lists & Tuples](Topic_08_Lists_Tuples) |
 | 09 | [Sets & Dictionaries](Topic_09_Sets_Dictionaries) |
@@ -61,7 +61,7 @@ You have two options for running the Jupyter notebooks — **Google Colab** (no 
 
 ---
 
-### Option A — Google Colab (Recommended for Beginners)
+### Option A: Google Colab (Recommended for Beginners)
 
 No installation needed. Runs entirely in your browser.
 
@@ -76,7 +76,7 @@ No installation needed. Runs entirely in your browser.
 
 ---
 
-### Option B — VS Code (Recommended for Full Setup)
+### Option B: VS Code (Recommended for Full Setup)
 
 #### 1. Install Python
 
