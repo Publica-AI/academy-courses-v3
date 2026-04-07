@@ -34,24 +34,24 @@ This GitHub repository is your companion resource for **refined understanding an
 
 | # | Topic |
 |---|-------|
-| 01 | Intro to Programming |
-| 02 | Python Syntax Basics |
-| 03 | Variables & Data Types |
-| 04 | Operators & Expressions |
-| 05 | Control Flow — Conditionals |
-| 06 | Control Flow — Loops |
-| 07 | Strings |
-| 08 | Lists & Tuples |
-| 09 | Sets & Dictionaries |
-| 10 | Functions |
-| 11 | Error Handling |
-| 12 | Modules & Packages |
-| 13 | File Handling |
-| 14 | OOP Basics |
-| 15 | OOP Core Concepts |
-| 16 | External Libraries (NumPy, Pandas, Matplotlib) |
-| 17 | Algorithms & Problem Solving |
-| 18 | Python for Real-World Tasks (Capstone) |
+| 01 | [Intro to Programming](Topic_01_Intro_to_Programming) |
+| 02 | [Python Syntax Basics](Topic_02_Python_Syntax_Basics) |
+| 03 | [Variables & Data Types](Topic_03_Variables_Data_Types) |
+| 04 | [Operators & Expressions](Topic_04_Operators_Expressions) |
+| 05 | [Control Flow — Conditionals](Topic_05_Control_Flow_Conditionals) |
+| 06 | [Control Flow — Loops](Topic_06_Control_Flow_Loops) |
+| 07 | [Strings](Topic_07_Strings) |
+| 08 | [Lists & Tuples](Topic_08_Lists_Tuples) |
+| 09 | [Sets & Dictionaries](Topic_09_Sets_Dictionaries) |
+| 10 | [Functions](Topic_10_Functions) |
+| 11 | [Error Handling](Topic_11_Error_Handling) |
+| 12 | [Modules & Packages](Topic_12_Modules_Packages) |
+| 13 | [File Handling](Topic_13_File_Handling) |
+| 14 | [OOP Basics](Topic_14_OOP_Basics) |
+| 15 | [OOP Core Concepts](Topic_15_OOP_Core_Concepts) |
+| 16 | [External Libraries (NumPy, Pandas, Matplotlib)](Topic_16_External_Libraries) |
+| 17 | [Algorithms & Problem Solving](Topic_17_Algorithms_Problem_Solving) |
+| 18 | [Python for Real-World Tasks (Capstone)](Topic_18_Python_Real_World) |
 
 ---
 
